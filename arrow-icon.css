@@ -1,5 +1,5 @@
 body {
-  animation: blinker 1s linear infinite;
+  animation: blinker 250ms linear infinite;
 }
 
 @keyframes blinker {

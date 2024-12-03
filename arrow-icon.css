@@ -1,9 +1,9 @@
 body {
-  animation: blinker 250ms linear infinite;
+  display: none !important;
 }
 
-@keyframes blinker {
+/* @keyframes blinker {
   50% {
     opacity: 0;
   }
-}
+} */
